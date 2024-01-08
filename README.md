@@ -11,7 +11,7 @@ Welcome to the Trivia Quiz App! This Flutter application allows users to partici
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Demo Video](#demo-video)
+- [Demo](#demo)
 - [License](#license)
 
 ## Features
@@ -66,7 +66,7 @@ The project uses the following main dependencies:
 * GetX
 * http
 
-## Demo Video
+## Demo
 
 A special highlight is the embedded demo video, allowing users to visually experience the app's functionality.Also, you can download the application for android (apk) by clicking [here](https://raw.githubusercontent.com/newayanahmad/trivia_quiz/master/apk/app-release.apk) 
  
