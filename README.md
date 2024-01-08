@@ -68,8 +68,8 @@ The project uses the following main dependencies:
 
 ## Demo Video
 
-A special highlight is the embedded demo video, allowing users to visually experience the app's functionality. 
-
+A special highlight is the embedded demo video, allowing users to visually experience the app's functionality.Also, you can download the application for android (apk) by clicking [here](https://raw.githubusercontent.com/newayanahmad/trivia_quiz/master/apk/app-release.apk) 
+ 
 https://github.com/newayanahmad/trivia_quiz/assets/101572821/dfee2c03-9548-4c2f-8cf0-4ba12cc14556
 
 
